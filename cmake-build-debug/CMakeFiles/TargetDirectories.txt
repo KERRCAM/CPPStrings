@@ -1,0 +1,3 @@
+/Users/kerrcameron/Documents/COMP SCI/C++Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/kerrcameron/Documents/COMP SCI/C++Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kerrcameron/Documents/COMP SCI/C++Strings/cmake-build-debug/CMakeFiles/C__Strings.dir
